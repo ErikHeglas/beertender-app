@@ -1,0 +1,22 @@
+<app-nav-bar></app-nav-bar>
+@if (loading()) {
+<app-loading></app-loading>
+}
+<!--  -->
+@if (beerList$ | async; as beerList) { @if (beerList.length > 0) {
+<div class="beer-list beer-list__container">
+  @for (beerItem of beerList; track $index) {
+  <div class="beer-list__card-container">
+    <app-beer-card
+      [beer]="beerItem"
+      (delete)="deleteBeer($event)"
+      (edit)="editBeer($event)"
+    ></app-beer-card>
+  </div>
+  }
+</div>
+} @else if(!loading()){
+<app-not-found></app-not-found>
+} } @else if(!loading()){
+<app-not-found></app-not-found>
+}

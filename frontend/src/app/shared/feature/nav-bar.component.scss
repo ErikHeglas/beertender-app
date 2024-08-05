@@ -1,0 +1,18 @@
+.nav-bar{
+    z-index: 1000;
+    position: relative;
+    height: 64px;
+    margin-bottom: 48px;
+    &__container{
+        width: 100%;
+        position: fixed;
+    }
+
+    &__button{
+        flex: 1 1 auto;
+    }
+
+    .mat-toolbar{
+        background-color: #2d272b;
+    }
+}

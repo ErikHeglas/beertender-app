@@ -1,0 +1,21 @@
+<div class="nav-bar">
+  <div class="nav-bar__container" [class.mat-elevation-z8]="true">
+    <mat-toolbar>
+      @if (currentRoute() != 'beer-list') {
+      <button mat-raised-button (click)="goBackToList()">
+        Back to List
+        <mat-icon>arrow_back</mat-icon>
+      </button>
+      }
+
+      <span class="nav-bar__button"></span>
+
+      @if (currentRoute() != 'beer-add') {
+      <button mat-raised-button (click)="goToBeerAdd()">
+        Add new
+        <mat-icon>add</mat-icon>
+      </button>
+      }
+    </mat-toolbar>
+  </div>
+</div>

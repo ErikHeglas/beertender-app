@@ -1,0 +1,53 @@
+<app-nav-bar></app-nav-bar>
+@if (loading()) {
+<app-loading></app-loading>
+}
+
+<div class="beer-add beer-add__container">
+  <form [formGroup]="beerForm" (ngSubmit)="onSubmit()" class="beer-add__form">
+    <mat-form-field appearance="outline">
+      <mat-label>Name</mat-label>
+      <input matInput formControlName="name" type="text" />
+      @if (beerForm.controls["name"].invalid) {
+      <mat-error>Please fill out Name</mat-error>
+      }
+    </mat-form-field>
+    <mat-form-field appearance="outline">
+      <mat-label>Description</mat-label>
+      <textarea matInput formControlName="description"></textarea>
+      @if (beerForm.controls["description"].invalid) {
+      <mat-error>Please fill out Description</mat-error>
+      }
+    </mat-form-field>
+    <div>
+      <mat-form-field appearance="outline">
+        <mat-label>IBU</mat-label>
+        <input matInput formControlName="ibu" type="number" />
+        @if (beerForm.controls["ibu"].invalid) {
+        <mat-error>Please fill out IBU</mat-error>
+        }
+      </mat-form-field>
+      <mat-form-field appearance="outline">
+        <mat-label>Type</mat-label>
+        <mat-select formControlName="type">
+          @for (beerType of beerTypes; track $index) {
+          <mat-option [value]="beerType">{{ beerType }}</mat-option>
+          }
+        </mat-select>
+        @if (beerForm.controls["type"].invalid) {
+        <mat-error>Please select Type</mat-error>
+        }
+      </mat-form-field>
+    </div>
+    <button
+      mat-fab
+      extended
+      color="accent"
+      [disabled]="beerForm.invalid"
+      type="submit"
+    >
+      <mat-icon>add</mat-icon>
+      Add new Beer
+    </button>
+  </form>
+</div>

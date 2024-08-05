@@ -1,0 +1,150 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Erik.Heglas\\source\\repos\\beertender\\backend\\BeerTenderAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4F40A06A-D6E2-4EC1-8032-C9DBE75BF7C3}|BeerTenderAPI\\BeerTenderAPI.csproj|c:\\users\\erik.heglas\\source\\repos\\beertender\\backend\\beertenderapi\\beertenderapi\\models\\beer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F40A06A-D6E2-4EC1-8032-C9DBE75BF7C3}|BeerTenderAPI\\BeerTenderAPI.csproj|solutionrelative:beertenderapi\\models\\beer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F40A06A-D6E2-4EC1-8032-C9DBE75BF7C3}|BeerTenderAPI\\BeerTenderAPI.csproj|c:\\users\\erik.heglas\\source\\repos\\beertender\\backend\\beertenderapi\\beertenderapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4F40A06A-D6E2-4EC1-8032-C9DBE75BF7C3}|BeerTenderAPI\\BeerTenderAPI.csproj|solutionrelative:beertenderapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F40A06A-D6E2-4EC1-8032-C9DBE75BF7C3}|BeerTenderAPI\\BeerTenderAPI.csproj|c:\\users\\erik.heglas\\source\\repos\\beertender\\backend\\beertenderapi\\beertenderapi\\controllers\\beerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F40A06A-D6E2-4EC1-8032-C9DBE75BF7C3}|BeerTenderAPI\\BeerTenderAPI.csproj|solutionrelative:beertenderapi\\controllers\\beerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Erik.Heglas\\AppData\\Local\\SourceServer\\6352aa837563ea36b0bb97d936aacb025168757e61d42223979fd929aaa46f07\\src\\libraries\\Microsoft.Extensions.DependencyInjection.Abstractions\\src\\ServiceCollection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F40A06A-D6E2-4EC1-8032-C9DBE75BF7C3}|BeerTenderAPI\\BeerTenderAPI.csproj|c:\\users\\erik.heglas\\source\\repos\\beertender\\backend\\beertenderapi\\beertenderapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F40A06A-D6E2-4EC1-8032-C9DBE75BF7C3}|BeerTenderAPI\\BeerTenderAPI.csproj|solutionrelative:beertenderapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F40A06A-D6E2-4EC1-8032-C9DBE75BF7C3}|BeerTenderAPI\\BeerTenderAPI.csproj|c:\\users\\erik.heglas\\source\\repos\\beertender\\backend\\beertenderapi\\beertenderapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4F40A06A-D6E2-4EC1-8032-C9DBE75BF7C3}|BeerTenderAPI\\BeerTenderAPI.csproj|solutionrelative:beertenderapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F40A06A-D6E2-4EC1-8032-C9DBE75BF7C3}|BeerTenderAPI\\BeerTenderAPI.csproj|c:\\users\\erik.heglas\\source\\repos\\beertender\\backend\\beertenderapi\\beertenderapi\\beertenderapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4F40A06A-D6E2-4EC1-8032-C9DBE75BF7C3}|BeerTenderAPI\\BeerTenderAPI.csproj|solutionrelative:beertenderapi\\beertenderapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F40A06A-D6E2-4EC1-8032-C9DBE75BF7C3}|BeerTenderAPI\\BeerTenderAPI.csproj|c:\\users\\erik.heglas\\source\\repos\\beertender\\backend\\beertenderapi\\beertenderapi\\data\\beercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F40A06A-D6E2-4EC1-8032-C9DBE75BF7C3}|BeerTenderAPI\\BeerTenderAPI.csproj|solutionrelative:beertenderapi\\data\\beercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 267,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BeersController.cs",
+              "DocumentMoniker": "C:\\Users\\Erik.Heglas\\source\\repos\\beertender\\backend\\BeerTenderAPI\\BeerTenderAPI\\Controllers\\BeersController.cs",
+              "RelativeDocumentMoniker": "BeerTenderAPI\\Controllers\\BeersController.cs",
+              "ToolTip": "C:\\Users\\Erik.Heglas\\source\\repos\\beertender\\backend\\BeerTenderAPI\\BeerTenderAPI\\Controllers\\BeersController.cs",
+              "RelativeToolTip": "BeerTenderAPI\\Controllers\\BeersController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T09:05:04.624Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ServiceCollection.cs",
+              "DocumentMoniker": "C:\\Users\\Erik.Heglas\\AppData\\Local\\SourceServer\\6352aa837563ea36b0bb97d936aacb025168757e61d42223979fd929aaa46f07\\src\\libraries\\Microsoft.Extensions.DependencyInjection.Abstractions\\src\\ServiceCollection.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\AppData\\Local\\SourceServer\\6352aa837563ea36b0bb97d936aacb025168757e61d42223979fd929aaa46f07\\src\\libraries\\Microsoft.Extensions.DependencyInjection.Abstractions\\src\\ServiceCollection.cs",
+              "ToolTip": "C:\\Users\\Erik.Heglas\\AppData\\Local\\SourceServer\\6352aa837563ea36b0bb97d936aacb025168757e61d42223979fd929aaa46f07\\src\\libraries\\Microsoft.Extensions.DependencyInjection.Abstractions\\src\\ServiceCollection.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\AppData\\Local\\SourceServer\\6352aa837563ea36b0bb97d936aacb025168757e61d42223979fd929aaa46f07\\src\\libraries\\Microsoft.Extensions.DependencyInjection.Abstractions\\src\\ServiceCollection.cs",
+              "ViewState": "AQIAAGsAAAAAAAAAAADwv3sAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T14:13:23.394Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Erik.Heglas\\source\\repos\\beertender\\backend\\BeerTenderAPI\\BeerTenderAPI\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "BeerTenderAPI\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Erik.Heglas\\source\\repos\\beertender\\backend\\BeerTenderAPI\\BeerTenderAPI\\Properties\\launchSettings.json",
+              "RelativeToolTip": "BeerTenderAPI\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-03T13:39:49.878Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Erik.Heglas\\source\\repos\\beertender\\backend\\BeerTenderAPI\\BeerTenderAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "BeerTenderAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\Erik.Heglas\\source\\repos\\beertender\\backend\\BeerTenderAPI\\BeerTenderAPI\\appsettings.json",
+              "RelativeToolTip": "BeerTenderAPI\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-03T09:03:31.335Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Erik.Heglas\\source\\repos\\beertender\\backend\\BeerTenderAPI\\BeerTenderAPI\\Program.cs",
+              "RelativeDocumentMoniker": "BeerTenderAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\Erik.Heglas\\source\\repos\\beertender\\backend\\BeerTenderAPI\\BeerTenderAPI\\Program.cs",
+              "RelativeToolTip": "BeerTenderAPI\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAIBJwA8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T09:00:57.667Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BeerContext.cs",
+              "DocumentMoniker": "C:\\Users\\Erik.Heglas\\source\\repos\\beertender\\backend\\BeerTenderAPI\\BeerTenderAPI\\Data\\BeerContext.cs",
+              "RelativeDocumentMoniker": "BeerTenderAPI\\Data\\BeerContext.cs",
+              "ToolTip": "C:\\Users\\Erik.Heglas\\source\\repos\\beertender\\backend\\BeerTenderAPI\\BeerTenderAPI\\Data\\BeerContext.cs",
+              "RelativeToolTip": "BeerTenderAPI\\Data\\BeerContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAcAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T08:58:29.673Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BeerTenderAPI.csproj",
+              "DocumentMoniker": "C:\\Users\\Erik.Heglas\\source\\repos\\beertender\\backend\\BeerTenderAPI\\BeerTenderAPI\\BeerTenderAPI.csproj",
+              "RelativeDocumentMoniker": "BeerTenderAPI\\BeerTenderAPI.csproj",
+              "ToolTip": "C:\\Users\\Erik.Heglas\\source\\repos\\beertender\\backend\\BeerTenderAPI\\BeerTenderAPI\\BeerTenderAPI.csproj",
+              "RelativeToolTip": "BeerTenderAPI\\BeerTenderAPI.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-03T08:57:45.766Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Beer.cs",
+              "DocumentMoniker": "C:\\Users\\Erik.Heglas\\source\\repos\\beertender\\backend\\BeerTenderAPI\\BeerTenderAPI\\Models\\Beer.cs",
+              "RelativeDocumentMoniker": "BeerTenderAPI\\Models\\Beer.cs",
+              "ToolTip": "C:\\Users\\Erik.Heglas\\source\\repos\\beertender\\backend\\BeerTenderAPI\\BeerTenderAPI\\Models\\Beer.cs",
+              "RelativeToolTip": "BeerTenderAPI\\Models\\Beer.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAoAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T08:55:35.684Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

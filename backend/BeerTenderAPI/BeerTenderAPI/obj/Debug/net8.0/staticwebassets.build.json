@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "KADFgbOFTWxDzsg2ejbuQqDm4yf1lhyPaPtPFcBL3kc=",
+  "Source": "BeerTenderAPI",
+  "BasePath": "_content/BeerTenderAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
